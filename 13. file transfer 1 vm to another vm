@@ -1,0 +1,17 @@
+1. click on new give name to vm select linux select ubuntu
+2. memory size 1024
+3. ubuntu select
+4. select vm1
+  - settins
+    - network
+    - bridge network /NAT network
+    (same for vm 2)
+5. boot vm by clicking it or select vm1 and start
+6. same for vm2
+7. ls
+8. touch file name
+9. nano file name 
+9. ifconf ig
+10. scp sample.txt(file name) vagrant@(ip address):/home/vagrant
+11. ls
+12.cat filename
